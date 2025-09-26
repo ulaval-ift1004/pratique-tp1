@@ -63,3 +63,7 @@ fin si/fin pour tout/fin tant que   →  indentation Python
 - Ne pas oublier les `:` après `if`, `for`, `while`
 - Respecter l'indentation (4 espaces recommandés)
 - Convertir les entrées : `int(input())` ou `float(input())`
+
+## Licence
+
+Ce projet est sous licence libre. Vous pouvez l'utiliser, le modifier et le redistribuer à des fins éducatives.
