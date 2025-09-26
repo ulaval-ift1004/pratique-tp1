@@ -16,7 +16,7 @@ Ce dépôt contient des exercices pratiques de programmation destinés aux débu
   - Entrées/sorties utilisateur
   - Programmes pratiques (calculatrice, jeu de devinette, etc.)
 
-### 2. `2-corriger-des-bogues.md`
+### 2. `2-correction-de-bogues.md`
 - **Exercice de correction d'erreurs** avec un programme Python défaillant
 - **8 erreurs typiques** que font les débutants
 - Solution détaillée avec explications

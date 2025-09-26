@@ -1,4 +1,4 @@
-# Exercice de Correction d'erreurs - Python
+# Exercice de correction d'erreurs - Python
 
 ## Code avec erreurs à corriger
 

@@ -1,6 +1,6 @@
-# Exemples de Pseudo-codes et codes équivalents en Python pour pratiquer
+# Exemples de pseudo-codes et codes équivalents en Python pour pratiquer
 
-## 1. Affichage et Saisie de base
+## 1. Affichage et saisie de base
 
 ### Pseudo-code
 
