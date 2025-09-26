@@ -121,7 +121,8 @@ else:  # Erreur 8: sinon -> else
 
 Dans l'énoncé du TP1, c'est indiqué :
 
->{note} **Important :** À chacune des entrées utilisateur, vous pouvez supposer que l'utilisateur
+> [!NOTE]
+>**Important :** À chacune des entrées utilisateur, vous pouvez supposer que l'utilisateur
 entrera une chaîne valide. En d'autres termes, si on demande par exemple la taille du losange
 et qu'on entre la chaîne "salut", il est tout à fait normal que votre programme plante ou
 agisse de manière imprévisible
