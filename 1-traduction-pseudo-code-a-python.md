@@ -288,7 +288,7 @@ print("Moyenne :", moyenne)
 compteur_pairs <- 0
 
 pour tout i dans <1,2,...,10> faire:
-    si i % 2 = 0 alors:
+    si i % 2 == 0 alors:
         afficher(i, "est pair")
         compteur_pairs <- compteur_pairs + 1
     fin si
@@ -321,17 +321,17 @@ afficher("2. Soustraction")
 afficher("3. Multiplication")
 choix <- demander("Votre choix : ")
 
-si choix = 1 alors:
+si choix == 1 alors:
     a <- demander("Premier nombre : ")
     b <- demander("Deuxième nombre : ")
     afficher("Résultat :", a + b)
 sinon:
-    si choix = 2 alors:
+    si choix == 2 alors:
         a <- demander("Premier nombre : ")
         b <- demander("Deuxième nombre : ")
         afficher("Résultat :", a - b)
     sinon:
-        si choix = 3 alors:
+        si choix == 3 alors:
             a <- demander("Premier nombre : ")
             b <- demander("Deuxième nombre : ")
             afficher("Résultat :", a * b)
