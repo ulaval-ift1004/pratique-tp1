@@ -48,7 +48,7 @@ sinon:
 ## Instructions pour les étudiants
 
 1. **Lisez attentivement** le code ci-dessus
-2. **Identifiez les 10 erreurs** (syntaxe, logique, types, etc.)
+2. **Identifiez les 8 erreurs** (syntaxe, logique, types, etc.)
 3. **Corrigez chaque erreur** une par une
 4. **Testez votre code** pour vérifier qu'il fonctionne correctement
 
